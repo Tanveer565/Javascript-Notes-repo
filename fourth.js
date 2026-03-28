@@ -1,19 +1,29 @@
 
 console.log("CONSTRUCTORS");
 // to make an object for things that has same keys with differ info.
+// it is a special method for defining the properties and methods of object.
 
 // function Car(make,model,year,color){
 //     this.make = make,
 //     this.model = model,
 //     this.year = year,
 //     this.color = color,
-//     this.price = function(){console.log(`This model ${this.make} has a price $0000`)}
-// };
-// const car1 = new Car("Ford","Mustang","1990","Blue");
-// const car2 = new Car("Cheverlot","Mustang","1990","Blue");
-// const car3 = new Car("Frari","Mustang","1990","Blue");
-// console.log(car3.make);
-// car3.price();
+//     this.details = function(){
+//         console.log(`This is ${this.model} by ${this.make} launched on ${this.year} and you can take it home for only 5$ and 1 kg gold`);
+//     }
+// }
+// const car1 = new Car("Tata","Punch",2021,"Voilet");
+// const car2 = new Car("Ford","Mustang",2022,"Red");
+// const car3 = new Car("Mahindra","Scarpio",2015,"White");
+
+// console.log(car1.make);
+// console.log(car1.model);
+// console.log(car1.year);
+// console.log(car1.color);
+
+// console.log(car2.details());
+// console.log(car3.details());
+
 
 console.log("Classes"); // consider better than constructors
 // Classes are a modern feature in JavaScript (introduced in ES6/ES2015) that
