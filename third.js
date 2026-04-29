@@ -273,6 +273,8 @@ console.log("this");
 //  context in which a function is executed. Its value is not fixed;
 //  it is determined dynamically when the function is called.
 
+//It does not work with arrow funciton
+
 // const person1 = {
 //     firstName: "Shinchan",
 //     lastName: "Nohara",
