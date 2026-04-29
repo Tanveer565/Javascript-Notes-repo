@@ -201,7 +201,7 @@ console.log("Reduce");
 // function max(accumulator,element){
 //     return Math.max(accumulator,element);
 // }
-console.log("Function ecspression");
+console.log("Function exspression");
 // In JavaScript, functions are "first-class citizens," meaning they can be
 //  treated like any other value (like a string or a number)—you can assign
 // them to variables, pass them as arguments to other functions,and return
